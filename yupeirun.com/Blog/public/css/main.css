@@ -1,0 +1,13 @@
+ .transparentbar {
+        background-repeat:no-repeat;
+        cursor:pointer;
+        outline:none;
+        border:none;
+        box-shadow:none; 
+        background-image: none;
+
+        background-color: transparent;
+        background: transparent;
+        border-color: transparent;
+
+    }
